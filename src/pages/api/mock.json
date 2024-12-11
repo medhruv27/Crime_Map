@@ -1,0 +1,54 @@
+{
+  "lc": 1,
+  "type": "constructor",
+  "id": ["langchain_core", "messages", "AIMessage"],
+  "kwargs": {
+    "lc_serializable": true,
+    "lc_kwargs": {
+      "lc_serializable": true,
+      "lc_kwargs": {
+        "content": "Some common security measures that may be found in retail stores in Mayfair, London include:\n\n1. CCTV cameras: Many retail stores in Mayfair have closed-circuit television (CCTV) cameras installed throughout the store to monitor for any suspicious activity and deter potential theft.\n\n2. Security guards: Some stores may have security guards stationed at entrances and exits to help deter theft and provide a visible security presence.\n\n3. Electronic article surveillance (EAS) systems: These systems involve tagging merchandise with security tags that trigger an alarm if they are taken out of the store without being deactivated.\n\n4. Alarm systems: Retail stores may have alarm systems in place that can be activated if there is a security breach or emergency situation.\n\n5. Access control systems: Some stores may use access control systems to restrict entry to certain areas of the store or to monitor who is entering and exiting the premises.\n\n6. Secure payment systems: Retail stores may have secure payment systems in place to protect customers' financial information and prevent fraud.\n\n7. Employee training: Store employees may receive training on how to identify and respond to security threats, such as theft or fraudulent activity.\n\nOverall, retail stores in Mayfair, London may employ a combination of these security measures to protect their merchandise, customers, and staff.",
+        "tool_calls": [],
+        "invalid_tool_calls": [],
+        "additional_kwargs": {},
+        "response_metadata": {},
+        "id": "chatcmpl-AQdQ2JjxThYwAtAtqwXNE0CkSNfzy"
+      },
+      "lc_namespace": ["langchain_core", "messages"],
+      "content": "Some common security measures that may be found in retail stores in Mayfair, London include:\n\n1. CCTV cameras: Many retail stores in Mayfair have closed-circuit television (CCTV) cameras installed throughout the store to monitor for any suspicious activity and deter potential theft.\n\n2. Security guards: Some stores may have security guards stationed at entrances and exits to help deter theft and provide a visible security presence.\n\n3. Electronic article surveillance (EAS) systems: These systems involve tagging merchandise with security tags that trigger an alarm if they are taken out of the store without being deactivated.\n\n4. Alarm systems: Retail stores may have alarm systems in place that can be activated if there is a security breach or emergency situation.\n\n5. Access control systems: Some stores may use access control systems to restrict entry to certain areas of the store or to monitor who is entering and exiting the premises.\n\n6. Secure payment systems: Retail stores may have secure payment systems in place to protect customers' financial information and prevent fraud.\n\n7. Employee training: Store employees may receive training on how to identify and respond to security threats, such as theft or fraudulent activity.\n\nOverall, retail stores in Mayfair, London may employ a combination of these security measures to protect their merchandise, customers, and staff.",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "id": "chatcmpl-AQdQ2JjxThYwAtAtqwXNE0CkSNfzy",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "output_tokens": 256,
+        "input_tokens": 18,
+        "total_tokens": 274,
+        "input_token_details": { "audio": 0, "cache_read": 0 },
+        "output_token_details": { "audio": 0, "reasoning": 0 }
+      }
+    },
+    "lc_namespace": ["langchain_core", "messages"],
+    "content": "Some common security measures that may be found in retail stores in Mayfair, London include:\n\n1. CCTV cameras: Many retail stores in Mayfair have closed-circuit television (CCTV) cameras installed throughout the store to monitor for any suspicious activity and deter potential theft.\n\n2. Security guards: Some stores may have security guards stationed at entrances and exits to help deter theft and provide a visible security presence.\n\n3. Electronic article surveillance (EAS) systems: These systems involve tagging merchandise with security tags that trigger an alarm if they are taken out of the store without being deactivated.\n\n4. Alarm systems: Retail stores may have alarm systems in place that can be activated if there is a security breach or emergency situation.\n\n5. Access control systems: Some stores may use access control systems to restrict entry to certain areas of the store or to monitor who is entering and exiting the premises.\n\n6. Secure payment systems: Retail stores may have secure payment systems in place to protect customers' financial information and prevent fraud.\n\n7. Employee training: Store employees may receive training on how to identify and respond to security threats, such as theft or fraudulent activity.\n\nOverall, retail stores in Mayfair, London may employ a combination of these security measures to protect their merchandise, customers, and staff.",
+    "additional_kwargs": {},
+    "response_metadata": {
+      "tokenUsage": {
+        "promptTokens": 18,
+        "completionTokens": 256,
+        "totalTokens": 274
+      },
+      "finish_reason": "stop"
+    },
+    "id": "chatcmpl-AQdQ2JjxThYwAtAtqwXNE0CkSNfzy",
+    "tool_calls": [],
+    "invalid_tool_calls": [],
+    "usage_metadata": {
+      "output_tokens": 256,
+      "input_tokens": 18,
+      "total_tokens": 274,
+      "input_token_details": { "audio": 0, "cache_read": 0 },
+      "output_token_details": { "audio": 0, "reasoning": 0 }
+    }
+  }
+}
